@@ -11,8 +11,12 @@ assignees: ''
 ## Required
 ### Term name
 [Please enter the name of label of the term you wish to request]
+### Short name
+[Please enter the accepted abbreviation for the unit]
 ### Definition
+[Please enter a proposed definition for the unit] 
 ### Sources/references
+[Please enter a link to a reference source]
 
 ## Optional
 ### Mapping to external terminologies
