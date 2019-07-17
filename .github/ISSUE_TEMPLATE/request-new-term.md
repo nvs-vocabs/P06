@@ -2,7 +2,7 @@
 name: Request new term
 about: Template to submit new term request to the NVS P06 BODC Units of Measurement
   Controlled vocabulary
-title: 'NTR :'
+title: 'NTR '
 labels: ''
 assignees: ''
 
