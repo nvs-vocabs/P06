@@ -10,7 +10,7 @@ assignees: ''
 
 ## Required
 ### Term name
-[Please enter the name of label of the term you wish to request]
+[Please enter the label of the term you wish to request]
 ### Short name
 [Please enter the accepted abbreviation for the unit]
 ### Definition
