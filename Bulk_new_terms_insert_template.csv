@@ -1,1 +1,1 @@
-term_name,short_name,definition,source,orcid(optional)
+Identifier(optional),PrefLabel,AltLabel(abbreviation),Definition,Source,orcid(optional)
