@@ -1,17 +1,17 @@
 ---
 name: Request new term
-about: Template to submit new term request to the NVS P06 BODC Units of Measurement
-  Controlled vocabulary
-title: 'NTR '
-labels: ''
+about: Template to submit a new term request to the NVS P06 BODC Units of Measurement
+  Controlled Vocabulary
+title: 'New Term Request'
+labels: 'New term'
 assignees: ''
 
 ---
 
 ## Required
-### Term name
+### Term name (PrefLabel)
 [Please enter the label of the term you wish to request]
-### Short name
+### Short name (AltLabel)
 [Please enter the accepted abbreviation for the unit]
 ### Definition
 [Please enter a proposed definition for the unit] 
