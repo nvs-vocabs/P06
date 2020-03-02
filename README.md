@@ -1,5 +1,5 @@
 # P06
-A controlled vocabulary for BODC-approved units of measurement
+A controlled vocabulary for units of measurement linked to parameters from the BODC Parameter Usage Vocabulary and the CF standard names, or used by SeaDataNet and OBIS partners.
 
 Terms and mappings available from: http://vocab.nerc.ac.uk/collection/P06/current/
 
