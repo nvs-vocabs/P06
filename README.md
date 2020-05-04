@@ -10,6 +10,6 @@ Terms and mappings for this vocabulary are available from:
 * [SeaDataNet search interface](http://seadatanet.maris2.nl/v_bodc_vocab_v2/search.asp?lib=P06)
 
 ## Request for new terms and ways to contribute
-- Request for new P06 can be made using our [generic new term request form](https://tinyurl.com/w4xy2zl)
+- Request for new P06 can be made using this [form](https://docs.google.com/forms/d/e/1FAIpQLSe-ZTKJZmNT5FmyPRFsPsNt2hpB_gb6MAmm7Zp-7GSMpn5NFA/viewform?usp=pp_url&entry.1396013310=P06)
 
-- Reporting errors or suggestions for improving content can be submitted as [regular issues](https://github.com/nvs-vocabs/L05/issues/new) in this repository or emailed to vocab.services@bodc.ac.uk.
+- Reporting errors or suggestions for improving content can be submitted as [regular issues](https://github.com/nvs-vocabs/L05/issues/new) in this repository or by email to vocab.services-at-bodc.ac.uk.
