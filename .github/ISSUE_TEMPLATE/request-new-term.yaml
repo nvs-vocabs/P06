@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-      Please provide the following information (all fields are mandatory unless specified otherwise). If you are unsure about a particular field, please either make an attempt or leave it blank. Queries can be discussed in the ticket comments.
+        Please provide the following information (all fields are mandatory unless specified otherwise). If you are unsure about a particular field, please either make an attempt or leave it blank. Queries can be discussed in the ticket comments.
 
   - type: input
     id: term-name
