@@ -1,0 +1,55 @@
+name: Request new term
+description: Template to submit a new term request to the NVS P06 BODC Units of Measurement Controlled Vocabulary
+title: "NTR: "
+labels: [New term]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+      Please provide the following information (all fields are mandatory unless specified otherwise). If you are unsure about a particular field, please either make an attempt or leave it blank. Queries can be discussed in the ticket comments.
+
+  - type: input
+    id: term-name
+    attributes:
+      label: "Term name (PrefLabel)"
+      description: "Please enter the label of the term you wish to request"
+      placeholder: "e.g., Metres per second"
+
+  - type: input
+    id: short-name
+    attributes:
+      label: "Short name (AltLabel)"
+      description: "Please enter the accepted abbreviation for the unit"
+      placeholder: "e.g., m/s"
+
+  - type: textarea
+    id: definition
+    attributes:
+      label: "Definition"
+      description: "Please provide a proposed definition for the unit"
+
+  - type: input
+    id: sources
+    attributes:
+      label: "Sources/references"
+      description: "Please provide a link to a reference source"
+      placeholder: "e.g., https://qudt.org/vocab/unit/M-PER-SEC"
+
+  - type: markdown
+    attributes:
+      value: "## Optional"
+
+  - type: textarea
+    id: mapping
+    attributes:
+      label: "Mapping to external terminologies"
+      description: "If your submission relates to existing terms in external resources, please enter one or a list of URIs"
+
+  - type: input
+    id: orcid
+    attributes:
+      label: "ORCID"
+      description: "Optionally provide your ORCID identifier"
+      placeholder: "0000-0000-0000-0000"
