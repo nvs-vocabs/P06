@@ -53,9 +53,9 @@ body:
       label: "Term utilisation"
       description: |
             Please provide the project, activity, or context associated with this request, 
-            and a brief indication of how or where it will be used. e.g.,
-            EMODnet Chemistry – dataset submission to SeaDataNet; 
-            DTO-BioFlow – data submission to OBIS; 
+            and a brief indication of how or where it will be used. e.g.,  
+            EMODnet Chemistry – dataset submission to SeaDataNet;  
+            DTO-BioFlow – data submission to OBIS;  
             LandSeaLOT – new sensor addition to SCOOP catalogue
       
   - type: input
